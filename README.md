@@ -1,2 +1,2 @@
 # rexTech
-For software development.
+For software development.The future tech
